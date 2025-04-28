@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Petra Love
+- 👀 I’m interested in Python
+- 😄 Pronouns: she\her
